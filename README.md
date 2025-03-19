@@ -27,13 +27,8 @@ Here are the technologies I work with:
 ---
 
 ## 📈 GitHub Stats
-Here’s a quick overview of my GitHub activity:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minimaledit&show_icons=true&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minimaledit&layout=compact&theme=dark)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=minimaledit&theme=dark)
 
 ---
 

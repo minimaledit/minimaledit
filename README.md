@@ -41,6 +41,6 @@ Here’s a quick overview of my GitHub activity:
 
 - 📧 **Email**: [nik.nikolayuk@gmail.com](mailto:nik.nikolayuk@gmail.com)
 - 💬 **Telegram**: [Telegram](https://t.me/minieddd)
-- 💼 **LinkedIn**: [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nikita-nikolayuk-73213b357/))
+- 💼 **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/nikita-nikolayuk-73213b357)
 - 🌐 **Portfolio**: [Portfolio](https://your-portfolio.com)
 - 📸 **Instagram**: [Instagram](https://instagram.com/nikita_nikolayk)
